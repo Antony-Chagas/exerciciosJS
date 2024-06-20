@@ -1,0 +1,26 @@
+*{
+    color: red;
+}
+
+h2{
+    color: black;
+}
+
+div{
+    color: blue;
+}
+.class1{
+    color:rgb(44, 173, 83);
+}
+
+#id1{
+    color: bisque;
+}
+
+#meu-id{
+    color: blue;
+}
+
+.minha-classe{
+    color: black;
+}
