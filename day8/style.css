@@ -1,0 +1,15 @@
+.nome{
+    color: red;
+}
+
+.hexadecimais{
+    color: #705454;
+}
+
+.rgb{
+    color: rgb(65, 194, 65);
+}
+
+.rgba{
+    color: rgba(10, 20, 30, 0.4);
+}
